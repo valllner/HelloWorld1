@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "GG WP";
+    std::cout << "GG WP";
+    
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
